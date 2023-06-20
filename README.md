@@ -1,1 +1,4 @@
 # HASHING
+open pdf for details
+
+[HASHING WITH SEPARATE CHAINING.pdf](https://github.com/ash-007-m/HASHING/files/11804101/HASHING.WITH.SEPARATE.CHAINING.pdf)
